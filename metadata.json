@@ -1,0 +1,6 @@
+{
+  "name": "CivicResolve Community Platform",
+  "description": "An interactive, Leaflet-powered community platform enabling citizens to report, validate, track, and resolve municipal issues cooperatively with real-time analytics and server-side Gemini AI support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
